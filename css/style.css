@@ -242,7 +242,7 @@ a {
 /* ABOUT SECTION */
 
 .about-section {
-    height: 100vh;
+    height: 93vh;
     padding: 8rem 2rem;
     background: linear-gradient(to left, #0f2027, #203a43, #2c5364);
     color: var(--main-white);
@@ -251,6 +251,7 @@ a {
 
 .about-content {
     max-width: 800px;
+    height: 74vh;
     margin: auto;
     font-size: 1.8rem;
     line-height: 1.8;
@@ -443,7 +444,7 @@ a {
 /* CONTACT SECTION */
 
 .contact-section {
-    height: 82vh;
+    height: 100vh;
     padding: 8rem 2rem;
     background: #18191f;
     color: var(--main-white);
